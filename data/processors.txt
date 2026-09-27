@@ -1,0 +1,22 @@
+PROCESSOR INFORMATION
+
+Intel Core i5-1335U:
+A power-efficient processor suitable for college work, programming, web development and everyday multitasking. Suitable for beginner machine learning but not ideal for heavy workloads.
+
+AMD Ryzen 7 7730U:
+A strong mobile processor with multiple cores suitable for programming, multitasking, data science and machine learning workloads.
+
+Intel Core i5-13420H:
+A performance-oriented processor suitable for programming, gaming, AI/ML development and demanding multitasking.
+
+Intel Core i7-12700H:
+A powerful processor suitable for software development, AI development, gaming and demanding technical workloads.
+
+Intel Core i7-13650HX:
+A high-performance processor designed for demanding workloads including programming, AI/ML development, deep learning and gaming.
+
+AMD Ryzen 5 5625U:
+An efficient processor suitable for programming, college work, multitasking and beginner machine learning.
+
+NVIDIA RTX GPUs:
+NVIDIA RTX GPUs can provide CUDA acceleration for machine learning and deep learning frameworks that support NVIDIA GPUs. More GPU memory can help with larger models and workloads.

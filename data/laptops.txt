@@ -1,0 +1,97 @@
+TECH GADGET & LAPTOP DATABASE
+
+Laptop: ASUS Vivobook 15
+Price: 54990 INR
+Processor: Intel Core i5-1335U
+RAM: 16GB DDR4
+Storage: 512GB SSD
+GPU: Intel Iris Xe
+Display: 15.6-inch Full HD
+Battery: Up to 8 hours
+Best For: College students, programming, web development, office work
+AI/ML Suitability: Suitable for Python programming and beginner machine learning. Not recommended for heavy deep learning.
+Review Summary: Good affordable student laptop with balanced performance and 16GB RAM.
+
+Laptop: Lenovo IdeaPad Slim 5
+Price: 69990 INR
+Processor: AMD Ryzen 7 7730U
+RAM: 16GB DDR4
+Storage: 512GB SSD
+GPU: AMD Radeon Graphics
+Display: 15.6-inch Full HD
+Battery: Up to 10 hours
+Best For: Programming, college work, multitasking, data science
+AI/ML Suitability: Good for Python, machine learning and data science. Limited for heavy GPU-based deep learning.
+Review Summary: Strong CPU performance and good battery life for students and developers.
+
+Laptop: HP Victus 15
+Price: 74990 INR
+Processor: Intel Core i5-13420H
+RAM: 16GB DDR4
+Storage: 512GB SSD
+GPU: NVIDIA GeForce RTX 3050 6GB
+Display: 15.6-inch Full HD 144Hz
+Battery: Up to 6 hours
+Best For: Gaming, programming, AI/ML, deep learning
+AI/ML Suitability: Good choice for students who need CUDA-compatible GPU acceleration for machine learning and deep learning.
+Review Summary: Powerful performance with RTX GPU. Good option for AI/ML students on a moderate budget.
+
+Laptop: ASUS TUF Gaming F15
+Price: 82990 INR
+Processor: Intel Core i7-12700H
+RAM: 16GB DDR4
+Storage: 512GB SSD
+GPU: NVIDIA GeForce RTX 3050 4GB
+Display: 15.6-inch Full HD 144Hz
+Battery: Up to 7 hours
+Best For: AI development, programming, gaming, deep learning
+AI/ML Suitability: Strong CPU and NVIDIA GPU make it suitable for machine learning and moderate deep learning workloads.
+Review Summary: Durable performance-focused laptop with strong processing power and NVIDIA GPU.
+
+Laptop: Lenovo LOQ 15
+Price: 89990 INR
+Processor: Intel Core i7-13650HX
+RAM: 16GB DDR5
+Storage: 1TB SSD
+GPU: NVIDIA GeForce RTX 4050 6GB
+Display: 15.6-inch Full HD 144Hz
+Battery: Up to 6 hours
+Best For: AI/ML development, deep learning, programming, gaming
+AI/ML Suitability: Excellent for a student who wants local GPU acceleration for deep learning and AI development.
+Review Summary: Powerful processor, RTX 4050 GPU and 1TB storage make it suitable for demanding technical workloads.
+
+Laptop: Acer Aspire 7
+Price: 62990 INR
+Processor: AMD Ryzen 5 5625U
+RAM: 16GB DDR4
+Storage: 512GB SSD
+GPU: NVIDIA GeForce RTX 2050 4GB
+Display: 15.6-inch Full HD
+Battery: Up to 7 hours
+Best For: Programming, college work, beginner AI/ML
+AI/ML Suitability: Suitable for programming and beginner machine learning with basic GPU acceleration.
+Review Summary: Affordable performance laptop with dedicated NVIDIA graphics.
+
+Laptop: Dell Inspiron 15
+Price: 57990 INR
+Processor: Intel Core i5-1335U
+RAM: 16GB DDR4
+Storage: 512GB SSD
+GPU: Intel Iris Xe
+Display: 15.6-inch Full HD
+Battery: Up to 9 hours
+Best For: College students, programming, office work
+AI/ML Suitability: Suitable for Python, SQL and beginner machine learning. Not designed for heavy deep learning.
+Review Summary: Reliable everyday laptop with good battery life and sufficient performance for student development work.
+
+Laptop: MSI Thin 15
+Price: 77990 INR
+Processor: Intel Core i5-13420H
+RAM: 16GB DDR4
+Storage: 512GB SSD
+GPU: NVIDIA GeForce RTX 4050 6GB
+Display: 15.6-inch Full HD 144Hz
+Battery: Up to 6 hours
+Best For: AI/ML, programming, gaming, deep learning
+AI/ML Suitability: Strong option for AI/ML students because of the RTX 4050 GPU and CUDA support.
+Review Summary: Good performance for technical workloads with a dedicated modern NVIDIA GPU.

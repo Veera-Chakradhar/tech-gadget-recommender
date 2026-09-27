@@ -1,0 +1,25 @@
+LAPTOP REVIEW SUMMARIES
+
+ASUS Vivobook 15:
+A balanced budget laptop for students. It is suitable for programming and normal college work. Its integrated graphics limit heavy deep learning workloads.
+
+Lenovo IdeaPad Slim 5:
+A good student and developer laptop with strong CPU performance and good battery life. Suitable for programming, data science and machine learning.
+
+HP Victus 15:
+A performance-oriented laptop with an NVIDIA RTX 3050 GPU. The dedicated GPU makes it more suitable for AI/ML and deep learning than normal integrated-graphics laptops.
+
+ASUS TUF Gaming F15:
+A powerful laptop with a strong CPU and NVIDIA GPU. It is suitable for AI development, programming, gaming and moderate deep learning.
+
+Lenovo LOQ 15:
+A high-performance laptop with an RTX 4050 GPU and 1TB SSD. It is suitable for demanding AI/ML development and deep learning workloads.
+
+Acer Aspire 7:
+An affordable laptop with dedicated NVIDIA graphics. It is suitable for programming and beginner AI/ML workloads.
+
+Dell Inspiron 15:
+A practical student laptop with good battery life. It is suitable for programming, SQL and beginner machine learning but not heavy GPU workloads.
+
+MSI Thin 15:
+A performance-focused laptop with RTX 4050 graphics. It is suitable for AI/ML development, programming and gaming.
